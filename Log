@@ -46,4 +46,4 @@ typings/
 .rts2_cache_es/
 .rts2_cache_umd/
 # Optional REPL history
-
+.node_rep1_history
