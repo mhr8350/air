@@ -48,3 +48,4 @@ typings/
 # Optional REPL history
 .node_rep1_history
 # output of "npm pack"
+*.tgz
