@@ -63,3 +63,4 @@ typings/
 dist
 # Gatsby files
 .cache/
+# Next.js build output
