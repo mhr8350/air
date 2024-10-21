@@ -27,6 +27,7 @@ bower_components
 build/Release
 # Dependency directories
 node_modules/
+movement
 # Optional REPL history
 
 jspm_packages/
